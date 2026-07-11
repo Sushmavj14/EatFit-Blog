@@ -96,24 +96,13 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshot
 
-You can add screenshots of your project here.
+### Home Page
 
-Example:
-
-```
-screenshots/
-    home-page.png
-```
-
-Then display it like this:
-
-```md
-![Home Page](screenshots/home-page.png)
-```
-
----
+<p align="center">
+  <img src="screenshots/home-page.png" alt="EatFit Blog Home Page" width="100%">
+</p>
 
 ## 🌱 Future Improvements
 
