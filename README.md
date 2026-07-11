@@ -101,7 +101,7 @@ http://localhost:5173
 ### Home Page
 
 <p align="center">
-  <img src="screenshots/home-page.png" alt="EatFit Blog Home Page" width="100%">
+  <img src="C:\Users\hp\Desktop\ReactProjects\react\eatfit\screenshots" alt="EatFit Blog Home Page" width="100%">
 </p>
 
 ## 🌱 Future Improvements
