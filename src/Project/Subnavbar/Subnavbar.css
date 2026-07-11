@@ -1,0 +1,17 @@
+.subnavbar-container{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+    a{
+        text-decoration: none;
+        color: black;
+        font-size: 26px;
+        font-family: 'Times New Roman', Times, serif;
+
+
+    }
+    a:hover{
+        color: palevioletred;
+    }
+}
