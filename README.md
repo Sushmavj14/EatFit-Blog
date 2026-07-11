@@ -1,16 +1,70 @@
-# React + Vite
+# 🍽️ EatFit Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive food blog website built using React and Vite. It showcases healthy recipes, articles, and food-related content with a modern user interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive design
+- React components
+- Modern UI
+- Fast loading with Vite
+- Clean and reusable code
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-## Expanding the Oxlint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```
+src/
+ ├── assets/
+ ├── Project/
+ │    ├── Navbar/
+ │    ├── Title/
+ │    ├── Cards/
+ │    ├── Footer/
+ │    └── Subnavbar/
+ ├── App.jsx
+ └── main.jsx
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sushmavj14/EatFit-Blog.git
+```
+
+Go to the project folder:
+
+```bash
+cd EatFit-Blog
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+
+(Add screenshots here later.)
+
+## 👩‍💻 Author
+
+**Sushma Vajramatti**
+
+GitHub: https://github.com/Sushmavj14
